@@ -48,8 +48,10 @@ h2{
     float: right;
     padding: 10px 30px 10px 30px;
 }
-#hightlight4 {
-   background-color: yellow;
+
+#highlight3 {
+     
+    background-color: skyblue;
     border: 4px solid black;
     font-size:24px;
     font-weight: bold;
